@@ -36,3 +36,20 @@
 
 2、关于如何使用git指令、如何写markdown文件。我会陆续上传一些教程上来。
 
+- 写markdown：我个人是使用[typora](https://typora.io/)
+
+  - 其最大好处就是所写即所得，写markdown源码的同时会显示出最终效果。
+  - 其次就是不用记忆md的各式各样格式，里面可以通过快捷键生产。
+  - 还有就是可以直接转换成PDF、letex等各种格式
+
+- 使用git：个人强力推荐使用[gitkraken](https://www.gitkraken.com/)
+
+  - 跨平台软件，windows/ Ubuntu / macOS都可以使用
+  - 不需要记忆繁琐的指令（直接命令行打指令还很容易出错）
+  - 图形化界面显示当前分支状态和修改，简单易用
+
+
+  - 支持一键式push/ pull， 全鼠标操作搞定～
+
+​	
+
