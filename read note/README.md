@@ -37,4 +37,13 @@
 - [CVPR 2017 best paper] SimGAN
 
 
+------
 
+谢乐乐
+
+- Deformable Convolutional Networks
+- DSSD
+- Faster-rcnn
+- Hypernet
+- [2017 ICCV] Incremental Learning of Object Detectors without Catastrophic Forgetting
+- Overcoming catastrophic forgetting inneural networks
