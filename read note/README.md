@@ -47,3 +47,14 @@
 - Hypernet
 - [2017 ICCV] Incremental Learning of Object Detectors without Catastrophic Forgetting
 - Overcoming catastrophic forgetting inneural networks
+
+
+------
+张帅涛
+
+- RCNN
+- 用py-faster-rcnn跑通挑战2数据集
+- HOG特征分类器的介绍
+- 
+- 
+- Overcoming catastrophic forgetting inneural networks
