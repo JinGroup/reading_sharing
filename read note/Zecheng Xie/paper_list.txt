@@ -1,0 +1,9 @@
+201709
+[1]	K. He, G. Gkioxari, P. Dollár, and R. Girshick, "Mask r-cnn," arXiv preprint arXiv:1703.06870, 2017.
+[2]	Y. Li, H. Qi, J. Dai, X. Ji, and Y. Wei, "Fully convolutional instance-aware semantic segmentation," arXiv preprint arXiv:1611.07709, 2016.
+[3]	J. Dai, K. He, Y. Li, S. Ren, and J. Sun, "Instance-sensitive fully convolutional networks," in European Conference on Computer Vision, 2016, pp. 534-549.
+[4]	P. O. Pinheiro, R. Collobert, and P. Dollár, "Learning to segment object candidates," in Advances in Neural Information Processing Systems, 2015, pp. 1990-1998.
+[5]	J. Dai, Y. Li, K. He, and J. Sun, "R-fcn: Object detection via region-based fully convolutional networks," in Advances in neural information processing systems, 2016, pp. 379-387.
+[6]	W. He, X.-Y. Zhang, F. Yin, and C.-L. Liu, "Deep Direct Regression for Multi-Oriented Scene Text Detection," arXiv preprint arXiv:1703.08289, 2017.
+[7]	A. Fathi, Z. Wojna, V. Rathod, P. Wang, H. O. Song, S. Guadarrama, et al., "Semantic Instance Segmentation via Deep Metric Learning," arXiv preprint arXiv:1703.10277, 2017.
+
