@@ -55,6 +55,6 @@
 - RCNN
 - 用py-faster-rcnn跑通挑战2数据集
 - HOG特征分类器的介绍
-- 
-- 
+- Fast R-CNN
+- Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition(SPP-net) 
 
