@@ -1,4 +1,4 @@
-## 须知
+# 须知
 
 1、以自己的名字命名并上传阅读笔记
 
@@ -8,9 +8,11 @@
 
 4、为方便大家查找其它人读过的论文，请大家把论文标题copy一份到下面（README）中。只需要标题即可，不一定需要作者等信息。
 
-## Paper List
+# Paper List
 
-201709
+## 201709
+
+------
 
 谢泽澄
 
@@ -27,3 +29,17 @@ J. Dai, Y. Li, K. He, and J. Sun, "R-fcn: Object detection via region-based full
 W. He, X.-Y. Zhang, F. Yin, and C.-L. Liu, "Deep Direct Regression for Multi-Oriented Scene Text Detection," arXiv preprint arXiv:1703.08289, 2017.
 
 A. Fathi, Z. Wojna, V. Rathod, P. Wang, H. O. Song, S. Guadarrama, et al., "Semantic Instance Segmentation via Deep Metric Learning," arXiv preprint arXiv:1703.10277, 2017.
+
+------
+
+孙增辉
+
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+- Wasserstein GAN
+- Adversarial Generation of Training Examples for Vehicle Lice
+- I2T2I_LEARNING TEXT TO IMAGE SYNTHESIS WITH TEXTUAL DATA
+- Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition
+- [CVPR 2017 best paper] SimGAN
+
+
+
