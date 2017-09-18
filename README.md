@@ -6,7 +6,7 @@
 
 | 组别        | 小组（课本）   | 内容 | 组别        | 小组（论文）   | 内容 |   
 |:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
-| 1     |  洛君 乐乐 |[深度学习 第8章](https://github.com/exacity/deeplearningbook-chinese) |  7 | 海林 金荣|[DCN](https://arxiv.org/pdf/1703.06211)
+| 1     |  洛君 乐乐 |[深度学习 第8章](https://github.com/exacity/deeplearningbook-chinese) |  7 | 海林 金荣|[DCN](https://arxiv.org/pdf/1703.06211) [Finding Tiny Faces](http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf)
 | 2     |  维信 庆祥 ||  8 | 曼飞 传明|
 | 3     |  赵阳 雪飞 ||  9 | 兆海 taswier|
 | 4     |  亚峰 杨帆 || 10 | 泽澄 大雄|
@@ -51,5 +51,5 @@
 
   - 支持一键式push/ pull， 全鼠标操作搞定～
 
-​	
+  ​
 
