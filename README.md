@@ -9,7 +9,7 @@
 | 1     |  洛君 乐乐 |[深度学习 第8章](https://github.com/exacity/deeplearningbook-chinese) |  7 | 海林 金荣|[DCN](https://arxiv.org/pdf/1703.06211) [Robust Scene Text Recognition with Automatic Rectification](http://lanl.arxiv.org/abs/1603.03915)
 | 2     |  维信 庆祥 ||  8 | 曼飞 传明|
 | 3     |  赵阳 雪飞 ||  9 | 兆海 taswier|
-| 4     |  亚峰 杨帆 || 10 | 泽澄 大雄|
+| 4     |  亚锋 杨帆 || 10 | 泽澄 大雄|
 | 5     |  学锋 凯凯 || 11 | 增辉 云龙|
 | 6     |  松轩 嘉泺 || 12 | 灿杰 帅涛|
 
