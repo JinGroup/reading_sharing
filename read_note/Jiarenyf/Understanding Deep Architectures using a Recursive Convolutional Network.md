@@ -15,7 +15,7 @@
   - > The ﬁnal hidden layer is subject to pixel-wise L2 normalization and passed into a logistic
     > classiﬁer to produce a prediction Y.
 
-  ![](./img/Recursive CNN.png)
+  ![](https://raw.githubusercontent.com/JinGroup/reading_sharing/dev/read_note/Jiarenyf/img/Recursive%20CNN.png)
 
 
 - 实验：
