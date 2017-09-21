@@ -65,3 +65,12 @@
 - ShuffleNet An Extremely Efficient Convolutional Neural Network for Mobile Devices
 - Distilling the Knowledge in a Neural Network
 - More is Less A More Complicated Network with Less Inference Complexity
+
+
+------
+黄耀雄
+
+- Handwriting Recognition with Large Multidimensional Long Short-Term Memory Recurrent Neural Networks
+- Improvements in RWTH’s system for off-line handwriting recognition
+- Fast and robust training of recurrent neural networks for offline handwriting recognition
+- Dropout improves Recurrent Neural Networks for Handwriting Recognition
