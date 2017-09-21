@@ -58,3 +58,10 @@
 - Fast R-CNN
 - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition(SPP-net) 
 
+
+------
+梁凯焕
+
+- ShuffleNet An Extremely Efficient Convolutional Neural Network for Mobile Devices
+- Distilling the Knowledge in a Neural Network
+- More is Less A More Complicated Network with Less Inference Complexity
