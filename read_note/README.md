@@ -79,3 +79,5 @@
 林庆祥
 
 - Image-to-Image Translation with Conditional Adversarial Networks
+- Instance Normalization:The Missing Ingredient for Fast Stylization
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
