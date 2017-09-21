@@ -74,3 +74,8 @@
 - Improvements in RWTH’s system for off-line handwriting recognition
 - Fast and robust training of recurrent neural networks for offline handwriting recognition
 - Dropout improves Recurrent Neural Networks for Handwriting Recognition
+
+------
+林庆祥
+
+- Image-to-Image Translation with Conditional Adversarial Networks
