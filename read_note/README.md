@@ -81,3 +81,12 @@
 - Image-to-Image Translation with Conditional Adversarial Networks
 - Instance Normalization:The Missing Ingredient for Fast Stylization
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+------
+杨帆
+
+- Focal Loss for Dense Object Detection.pdf
+- Understanding Deep Architectures using a Recursive Convolutional Network.pdf
+
+------
+
