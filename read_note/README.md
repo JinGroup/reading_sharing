@@ -85,8 +85,26 @@
 ------
 杨帆
 
-- Focal Loss for Dense Object Detection.pdf
-- Understanding Deep Architectures using a Recursive Convolutional Network.pdf
+- Mask R-CNN
+- Spatial Transformer Networks
+- Training RNNs as Fast as CNNs
+- Deformable Convolutional Networks
+- Focal Loss for Dense Object Detection
+- Feature Pyramid Networks for Object Detection
+- Training Neural Networks with Very Little Data-A Draft
+- Robust Scene Text Recognition with Automatic Rectiﬁcation
+- Photographic Image Synthesis with Cascaded Reﬁnement Networks
+- Scene Text Recognition with Sliding Convolutional Character Models
+- Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
+- Speed/accuracy trade-oﬀs for modern convolutional object detectors
+- R-FCN: Object Detection via Region-based Fully Convolutional Networks
+- Understanding Deep Architectures using a Recursive Convolutional Network
+- Fully Convolutional Recurrent Network for Handwritten Chinese Text Recognition
+- MobileNets: Efﬁcient Convolutional Neural Networks for Mobile Vision Applications
+- Design of a Very Compact CNN Classiﬁer for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling
+- DropSample: [A New Training Method to Enhance Deep Convolutional Neural Networks for Large-Scale Unconstrained Handwritten Chinese Character Recognition]
+- Toward high-performance online HCCR: a CNN approach with DropDistortion, path signature and spatial stochastic max-pooling
+- An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 
 ------
 
