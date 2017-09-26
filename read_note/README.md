@@ -53,8 +53,8 @@
 张帅涛
 
 - RCNN
-- 用py-faster-rcnn跑通挑战2数据集
-- HOG特征分类器的介绍
+- 用py-faster-rcnn challenge2
+- HOG
 - Fast R-CNN
 - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition(SPP-net) 
 
