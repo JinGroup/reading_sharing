@@ -1,12 +1,12 @@
 # 须知
 
-1、以自己的名字命名并上传阅读笔记
+以自己的名字命名并上传阅读笔记
 
-2、考虑到在线显示的问题，目前仅有pdf和markdown两种格式可以支持；
+考虑到在线显示的问题，目前仅有pdf和markdown两种格式可以支持；
 
-3、每个人定时上传自己的读书笔记，按周更新；鼓励大家按日更新；
+每个人定时上传自己的读书笔记，按周更新；鼓励大家按日更新；
 
-4、为方便大家查找其它人读过的论文，请大家把论文标题copy一份到下面（README）中。只需要标题即可，不一定需要作者等信息。
+为方便大家查找其它人读过的论文，请大家把论文标题copy一份到下面（README）中。只需要标题即可，不一定需要作者等信息。
 
 # Paper List
 
@@ -107,4 +107,22 @@
 - An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 
 ------
+
+刘曼飞
+
+- Learning from Simulated and Unsupervised Images through Adversarial Training
+- Context Gates for Neural MachineTranslation
+- Coverage-based Neural Machine Translation
+- Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+- word embedding
+- encoder & bucketing
+- A convolutional encoder model for neural machine translation ,Facebook
+- attention
+- beam search
+- clip gradients
+- BLEU
+- cross entropy
+
+------
+
 
