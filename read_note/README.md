@@ -35,6 +35,12 @@
 - I2T2I_LEARNING TEXT TO IMAGE SYNTHESIS WITH TEXTUAL DATA
 - Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition
 - [CVPR 2017 best paper] SimGAN
+- IRGAN A Minimax Game for Unifying Generative and Discrimina
+- meta learning 101
+- Image-to-Image Translation with Conditional Adversarial Networks
+- Focusing Attention Towards Accurate Text Recognition in Natural Images
+- Deformable Convolutional Networks
+- Scene Text Recognition with Sliding Convolutional Character 
 
 
 ------
