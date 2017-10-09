@@ -23,6 +23,18 @@
 - R-fcn: Object detection via region-based fully convolutional networks
 - Deep Direct Regression for Multi-Oriented Scene Text Detection
 - Semantic Instance Segmentation via Deep Metric Learning
+- Boundary-aware Instance Segmentation
+- End-to-End Instance Segmentation with Recurrent Attention
+- Annotating Object Instances with a Polygon-RNN
+- Spatial transformer networks
+- Approximation methods for thin plate spline mappings and principal warps
+- Robust scene text recognition with automatic rectification
+- Focusing Attention: Towards Accurate Text Recognition in Natural Images
+- Spatio-temporal LSTM with trust gates for 3D human action recognition
+- Global context-aware attention lstm networks for 3d action recognition
+- SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning
+- Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition
+
 
 
 ------
