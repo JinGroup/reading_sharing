@@ -80,6 +80,20 @@
 - Improvements in RWTH’s system for off-line handwriting recognition
 - Fast and robust training of recurrent neural networks for offline handwriting recognition
 - Dropout improves Recurrent Neural Networks for Handwriting Recognition
+- Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network
+- Fully Convolutional Networks for Semantic Segmentation
+- Rethinking Atrous Convolution for Semantic Image Segmentation
+- Deformable Convolutional Networks
+- Squeeze-and-Excitation Networks
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+- Language Generation with Recurrent Generative Adversarial Networks without Pre-training
+- Curriculum Learning
+- Adversarial Learning for Neural Dialogue Generation
+- Wasserstein GAN
+- Rich feature hierarchies for accurate object detection and semantic segmentation
+- Fast R-CNN
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+
 
 ------
 林庆祥
