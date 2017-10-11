@@ -157,4 +157,20 @@
 
 ------
 
+冯嘉泺
+
+- Densely Connected Convolutional Networks
+- Generalizing Pooling Functions in CNNs Mixed Gated and Tree
+- Fast R-CNN
+- Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
+- Learning Deconvolution Network for SemanticSegmentation
+- MCMLSD A Dynamic Programming Approach to Line Segment Detection
+- Object Detection Networks on Convolutional Feature Maps
+- One-Shot Generalization in Deep Generative Models
+- Rich feature hierarchies for accurate object detection and semantic segmentation
+- Understanding LSTM Networks
+
+------
+
+
 
