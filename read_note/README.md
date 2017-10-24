@@ -23,6 +23,18 @@
 - R-fcn: Object detection via region-based fully convolutional networks
 - Deep Direct Regression for Multi-Oriented Scene Text Detection
 - Semantic Instance Segmentation via Deep Metric Learning
+- Boundary-aware Instance Segmentation
+- End-to-End Instance Segmentation with Recurrent Attention
+- Annotating Object Instances with a Polygon-RNN
+- Spatial transformer networks
+- Approximation methods for thin plate spline mappings and principal warps
+- Robust scene text recognition with automatic rectification
+- Focusing Attention: Towards Accurate Text Recognition in Natural Images
+- Spatio-temporal LSTM with trust gates for 3D human action recognition
+- Global context-aware attention lstm networks for 3d action recognition
+- SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning
+- Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition
+
 
 
 ------
@@ -35,6 +47,12 @@
 - I2T2I_LEARNING TEXT TO IMAGE SYNTHESIS WITH TEXTUAL DATA
 - Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition
 - [CVPR 2017 best paper] SimGAN
+- IRGAN A Minimax Game for Unifying Generative and Discrimina
+- meta learning 101
+- Image-to-Image Translation with Conditional Adversarial Networks
+- Focusing Attention Towards Accurate Text Recognition in Natural Images
+- Deformable Convolutional Networks
+- Scene Text Recognition with Sliding Convolutional Character 
 
 
 ------
@@ -74,6 +92,20 @@
 - Improvements in RWTH’s system for off-line handwriting recognition
 - Fast and robust training of recurrent neural networks for offline handwriting recognition
 - Dropout improves Recurrent Neural Networks for Handwriting Recognition
+- Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network
+- Fully Convolutional Networks for Semantic Segmentation
+- Rethinking Atrous Convolution for Semantic Image Segmentation
+- Deformable Convolutional Networks
+- Squeeze-and-Excitation Networks
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+- Language Generation with Recurrent Generative Adversarial Networks without Pre-training
+- Curriculum Learning
+- Adversarial Learning for Neural Dialogue Generation
+- Wasserstein GAN
+- Rich feature hierarchies for accurate object detection and semantic segmentation
+- Fast R-CNN
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+
 
 ------
 林庆祥
@@ -124,5 +156,21 @@
 - cross entropy
 
 ------
+
+冯嘉泺
+
+- Densely Connected Convolutional Networks
+- Generalizing Pooling Functions in CNNs Mixed Gated and Tree
+- Fast R-CNN
+- Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
+- Learning Deconvolution Network for SemanticSegmentation
+- MCMLSD A Dynamic Programming Approach to Line Segment Detection
+- Object Detection Networks on Convolutional Feature Maps
+- One-Shot Generalization in Deep Generative Models
+- Rich feature hierarchies for accurate object detection and semantic segmentation
+- Understanding LSTM Networks
+
+------
+
 
 
